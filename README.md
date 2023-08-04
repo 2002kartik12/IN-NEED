@@ -2,6 +2,7 @@
 
 An ‘In Need’ website is an online platform that allows businesses to sell their products (Food Items) or Services which is near to expiry over the internet. The website serves as a virtual storefront, providing customers with a user-friendly interface to browse, search for, and purchase items online. It offers numerous benefits for both businesses and customers, including convenience, accessibility, and cost-effectiveness. As ecommerce continues to grow in popularity, businesses must ensure that their websites are designed to meet the needs of their target audience and provide a seamless and secure shopping experience. 
 
+
 ![image](https://github.com/2002kartik12/IN-NEED/assets/110666936/2482ef21-d18e-4955-a2eb-aacb26669c6c)
 This is Home page
 
